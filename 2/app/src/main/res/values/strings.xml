@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lecture2</string>
+    <string name="title_activity_collect_name">CollectNameActivity</string>
+    <string name="title_activity_collect_address">CollectAddress</string>
+</resources>
